@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SFML Sudoku", "SFML Sudoku\SFML Sudoku.vcxproj", "{F63A8D12-C956-4CB3-A225-94418B78F566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F63A8D12-C956-4CB3-A225-94418B78F566}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F63A8D12-C956-4CB3-A225-94418B78F566}.Debug|Win32.Build.0 = Debug|Win32
+		{F63A8D12-C956-4CB3-A225-94418B78F566}.Release|Win32.ActiveCfg = Release|Win32
+		{F63A8D12-C956-4CB3-A225-94418B78F566}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

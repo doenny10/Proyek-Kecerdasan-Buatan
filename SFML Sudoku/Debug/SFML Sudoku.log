@@ -1,0 +1,49 @@
+﻿Build started 6/23/2018 11:22:21 AM.
+     1>Project "C:\Users\lenovo\Desktop\~Proyek SFML Sudoku Animasi\~Proyek SFML Sudoku\SFML Sudoku\SFML Sudoku.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\SFML Sudoku.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\SFML-2.3.2\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt source.cpp
+         source.cpp
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(106): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdlib.h(867) : see declaration of 'itoa'
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(185): warning C4172: returning address of local variable or temporary
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(208): warning C4172: returning address of local variable or temporary
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(672): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(672): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(673): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(684): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(684): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(688): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(688): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(692): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(692): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(696): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(696): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(753): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(753): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(1119): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(1119): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(1164): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(1164): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(1203): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(1203): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(1239): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(1239): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(1277): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(1277): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\~proyek sfml sudoku animasi\~proyek sfml sudoku\sfml sudoku\source.cpp(189): warning C4715: 'sudoku::getindexkotak' : not all control paths return a value
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lenovo\Desktop\~Proyek SFML Sudoku Animasi\~Proyek SFML Sudoku\Debug\SFML Sudoku.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files (x86)\SFML-2.3.2\lib" "sfml-audio-d.lib" "sfml-network-d.lib" "sfml-graphics-d.lib" "sfml-system-d.lib" "sfml-window-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SFML Sudoku.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\lenovo\Desktop\~Proyek SFML Sudoku Animasi\~Proyek SFML Sudoku\Debug\SFML Sudoku.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lenovo\Desktop\~Proyek SFML Sudoku Animasi\~Proyek SFML Sudoku\Debug\SFML Sudoku.lib" /MACHINE:X86 Debug\source.obj
+     1>source.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+         SFML Sudoku.vcxproj -> C:\Users\lenovo\Desktop\~Proyek SFML Sudoku Animasi\~Proyek SFML Sudoku\Debug\SFML Sudoku.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\lenovo\Desktop\~Proyek SFML Sudoku Animasi\~Proyek SFML Sudoku\Debug\SFML Sudoku.exe;#1" /manifest "Debug\SFML Sudoku.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\SFML Sudoku.unsuccessfulbuild".
+         Touching "Debug\SFML Sudoku.lastbuildstate".
+     1>Done Building Project "C:\Users\lenovo\Desktop\~Proyek SFML Sudoku Animasi\~Proyek SFML Sudoku\SFML Sudoku\SFML Sudoku.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.87

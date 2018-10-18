@@ -1,0 +1,30 @@
+﻿Build started 22/06/2018 20.33.53.
+     1>Project "D:\Dokumen\GitHub\New folder\~Proyek SFML Sudoku\SFML Sudoku\SFML Sudoku.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\Dokumen\GitHub\New folder\~Proyek SFML Sudoku\Release\".
+       InitializeBuildStatus:
+         Creating "Release\SFML Sudoku.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\SFML-2.3.2\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt source.cpp
+         source.cpp
+     1>source.cpp(69): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : see declaration of 'itoa'
+     1>source.cpp(147): warning C4172: returning address of local variable or temporary
+     1>source.cpp(181): warning C4172: returning address of local variable or temporary
+     1>source.cpp(563): warning C4101: 'event' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Dokumen\GitHub\New folder\~Proyek SFML Sudoku\Release\SFML Sudoku.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Program Files (x86)\SFML-2.3.2\lib" "sfml-audio.lib" "sfml-network.lib" "sfml-graphics.lib" "sfml-system.lib" "sfml-window.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\SFML Sudoku.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Dokumen\GitHub\New folder\~Proyek SFML Sudoku\Release\SFML Sudoku.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Dokumen\GitHub\New folder\~Proyek SFML Sudoku\Release\SFML Sudoku.lib" /MACHINE:X86 Release\source.obj
+         Generating code
+     1>d:\dokumen\github\new folder\~proyek sfml sudoku\sfml sudoku\source.cpp(151): warning C4715: 'sudoku::getindexkotak' : not all control paths return a value
+         Finished generating code
+         SFML Sudoku.vcxproj -> D:\Dokumen\GitHub\New folder\~Proyek SFML Sudoku\Release\SFML Sudoku.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Dokumen\GitHub\New folder\~Proyek SFML Sudoku\Release\SFML Sudoku.exe;#1" /manifest "Release\SFML Sudoku.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\SFML Sudoku.unsuccessfulbuild".
+         Touching "Release\SFML Sudoku.lastbuildstate".
+     1>Done Building Project "D:\Dokumen\GitHub\New folder\~Proyek SFML Sudoku\SFML Sudoku\SFML Sudoku.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.54
